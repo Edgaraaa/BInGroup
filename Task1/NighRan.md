@@ -1,5 +1,4 @@
-#Git学习
-##基础命令
+# Git学习
 + mkdir 创建目录
 + git init 管理仓库
 + git add 放置缓冲区
