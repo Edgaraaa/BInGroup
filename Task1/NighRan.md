@@ -1,5 +1,5 @@
-#Git学习
-##基础命令
+# Git学习
+## 基础命令
 + mkdir 创建目录
 + git init 管理仓库
 + git add 放置缓冲区
@@ -14,7 +14,7 @@
 + git checkout -b **branchname** 创建 -d删除分支
 + git stash 存放工作   apply恢复 drop删除   pop恢复并删除
 + git tag **name** 标签
-#Github使用
+
 1.未创建ssh key； $ ssh-keygen -t rsa -C "your_email@email.com"
 
 2.库的创建基本没难度
