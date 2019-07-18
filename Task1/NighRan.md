@@ -1,6 +1,5 @@
 # Git学习
 
-## 基础命令
 + mkdir 创建目录
 + git init 管理仓库
 + git add 放置缓冲区
@@ -18,8 +17,6 @@
 
 
 # Github使用
-
-
 1.未创建ssh key； $ ssh-keygen -t rsa -C "your_email@email.com"
 
 2.库的创建基本没难度
